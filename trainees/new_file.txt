@@ -1,1 +1,5 @@
 first line
+Lorem ipsum
+Sit amet
+
+import numpy as np
