@@ -1,0 +1,7 @@
+merging branches 1
+written in brach mergetest1
+written at branch mergetest2
+<<<<<<< HEAD
+put this also in branch mergetest1
+=======
+>>>>>>> mergetest2
