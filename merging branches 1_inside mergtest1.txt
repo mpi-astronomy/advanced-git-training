@@ -5,3 +5,4 @@ written at branch mergetest2
 put this also in branch mergetest1
 =======
 >>>>>>> mergetest2
+ branch mergetest2 stays,and content from branch mergetest2 is addet to mergetest1
